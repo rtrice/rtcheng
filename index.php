@@ -4,7 +4,7 @@
 //      Phus Lu        <phus.lu@gmail.com>
 
 $__version__  = '2.1.11';
-$__password__ = '';
+$__password__ = 'tiao.651017';
 $__timeout__  = 20;
 
 function decode_request($data) {
